@@ -8,7 +8,7 @@
 #define MAX_ARGS 64
 
 void prompt() {
-    printf("simple_shell> ");
+    printf("input> ");
 }
 
 int main() {
@@ -53,4 +53,3 @@ int main() {
     printf("\n");
     return 0;
 }
-
